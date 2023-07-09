@@ -1,2 +1,2 @@
-# SnakeGame
-Spend your free time with this amazing snake game.
+# PDFmerger
+You can merge your pdfs in a easy way without internet connection
